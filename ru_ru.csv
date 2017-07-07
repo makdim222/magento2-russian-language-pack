@@ -5387,28 +5387,28 @@ Please enter a valid IP v4 address.,Введите действительный 
 Please enter a valid IP v6 address.,Введите действительный IP-адрес v6.,module,Magento_Ui
 "Invalid format.","Неверный формат.",module,Magento_Ui
 "HTML tags are not allowed.","HTML теги не допускаются.",module,Magento_Ui
-"Please select an option.","Пожалуйста, выберете значение.",module,Magento_Ui
+Please select an option.,"Пожалуйста, выберете значение.",module,Magento_Ui
 Empty Value.,Пустое значение.,module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9) или пробелы.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Пожалуйста, используйте в этом поле только буквы  (a-z or A-Z), цифры (0-9) или подчеркивание (_) и первым символом должна быть буква.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9), пробелы и ""#"".",module,Magento_Ui
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Пожалуйста введите правильный номер телефона. Например (123) 456-7890 или 123-456-7890.",module,Magento_Ui
-"Please enter a valid fax number (Ex: 123-456-7890).","Введите действительный номер факса (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
-"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Пожалуйста, введите 6 и более символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Ui
-"Please enter 7 or more characters, using both numeric and alphabetic.","Введите 7 или более символов, используя числовые и буквенные символы.",module,Magento_Ui
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Пожалуйста, введите корректный адрес. Требуется протокол (http://, https:// or ftp://).",module,Magento_Ui
-"Please enter a valid URL. For example http://www.example.com or www.example.com.","Пожалуйста, введите корректный адрес. Например http://www.example.com or www.example.com.",module,Magento_Ui
-"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Введите действительный XML-идентификатор (Ex: something_1, block5, id-4).",module,Magento_Ui
-Please enter a valid social security number (Ex: 123-45-6789).,Введите действительный номер социального страхования. (Например: 123-45-6789).,module,Magento_Ui
+Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.,"Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9) или пробелы.",module,Magento_Ui
+Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Пожалуйста, используйте в этом поле только буквы  (a-z or A-Z), цифры (0-9) или подчеркивание (_) и первым символом должна быть буква.",module,Magento_Ui
+Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.,"Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9), пробелы и ""#"".",module,Magento_Ui
+Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,"Пожалуйста введите правильный номер телефона. Например (123) 456-7890 или 123-456-7890.",module,Magento_Ui
+Please enter a valid fax number (Ex: 123-456-7890).,"Введите действительный номер факса (Ex: 123-456-7890).",module,Magento_Ui
+Please enter a valid email address (Ex: johndoe@domain.com).,"Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
+Please enter 6 or more characters. Leading and trailing spaces will be ignored.,"Пожалуйста, введите 6 и более символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Ui
+Please enter 7 or more characters, using both numeric and alphabetic.,"Введите 7 или более символов, используя числовые и буквенные символы.",module,Magento_Ui
+Please enter a valid URL. Protocol is required (http://, https:// or ftp://).,"Пожалуйста, введите корректный адрес. Требуется протокол (http://, https:// or ftp://).",module,Magento_Ui
+Please enter a valid URL. For example http://www.example.com or www.example.com.,"Пожалуйста, введите корректный адрес. Например http://www.example.com or www.example.com.",module,Magento_Ui
+Please enter a valid XML-identifier (Ex: something_1, block5, id-4).,"Введите действительный XML-идентификатор (Ex: something_1, block5, id-4).",module,Magento_Ui
+Please enter a valid social security number (Ex: 123-45-6789).,"Введите действительный номер социального страхования. (Например: 123-45-6789).",module,Magento_Ui
 Please enter a valid zip code (Ex: 90602 or 90602-1234).,"Пожалуйста, введите верный почтовый индекс (Например: 90602 or 90602-1234).",module,Magento_Ui
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Используйте этот формат даты: dd/mm/yyyy. Например 17/03/2006 вместо 17 марта, 2006.",module,Magento_Ui
+Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.,"Используйте этот формат даты: dd/mm/yyyy. Например 17/03/2006 вместо 17 марта, 2006.",module,Magento_Ui
 Please enter a valid $ amount. For example $100.00.,"Пожалуйста, введите действительную сумму.  Например $100.00.",module,Magento_Ui
-Please enter a number 0 or greater in this field.,Введите в этом поле цифру 0 или больше.,module,Magento_Ui
-Please enter a number greater than 0 in this field.,Введите число больше 0 в этом поле.,module,Magento_Ui
-"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Пожалуйста, введите правильную CSS-длину (Пример: 100px, 77pt, 20em, .5ex или 50%).",module,Magento_Ui
-Please enter a valid number in this field.,Введите действительное число в этом поле..,module,Magento_Ui
-The value is not within the specified range.,Значение не соответствует указанному диапазону.,module,Magento_Ui
+Please enter a number 0 or greater in this field.,"Введите в этом поле цифру 0 или больше.",module,Magento_Ui
+Please enter a number greater than 0 in this field.,"Введите число больше 0 в этом поле.",module,Magento_Ui
+Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).,"Пожалуйста, введите правильную CSS-длину (Пример: 100px, 77pt, 20em, .5ex или 50%).",module,Magento_Ui
+Please enter a valid number in this field.,"Введите действительное число в этом поле..",module,Magento_Ui
+The value is not within the specified range.,"Значение не соответствует указанному диапазону.",module,Magento_Ui
 Please use letters only (a-z or A-Z) in this field.,Используйте в этом поле только буквы (a-z или A-Z).,module,Magento_Ui
 "Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","В этом поле используйте только буквы (a-z), цифры (0-9) или подчеркивание (_), а первым символом должна быть буква.",module,Magento_Ui
 Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.,В этом поле используйте только буквы (a-z или A-Z) или цифры (0-9). Пробелы и другие символы не допускаются.,module,Magento_Ui
