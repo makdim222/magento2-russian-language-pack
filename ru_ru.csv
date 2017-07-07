@@ -7322,8 +7322,9 @@ Force Sign-In,Сила Sign-В,module,Magento_Customer
 Shopping Cart from %1,Корзина из %1,module,Magento_Customer
 Indeterminate,неопределенный,module,Magento_Customer
 Locked,запертый,module,Magento_Customer
-Maximum length must be less then %1 characters.,Максимальная длина должна быть меньше %1 символов.,module,Magento_Customer
+Maximum length must be less then %1 characters.,Максимальная длина должна бытьменьше %1 символов.,module,Magento_Customer
 Wrong email.,Неправильный адрес электронной почты.,module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Минимальная длина этого поля должна быть равна или больше %1 символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Customer 
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Если вы являетесь зарегистрированным клиентом НДС, пожалуйста, <a href=""%1"">нажмите тут</a>, чтобы ввести адрес доставки для правильного расчета НДС.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Если вы являетесь зарегистрированным клиентом НДС, пожалуйста, <a href=""%1"">нажмите тут</a> ввести свой платежный адрес для правильного расчета НДС.",module,Magento_Customer
 Customer has been unlocked successfully.,Клиент был успешно разблокирован.,module,Magento_Customer
