@@ -556,7 +556,7 @@ Allow Qty Below 0,Разрешить кол-во ниже 0,module,Magento_Catal
 Allow Qty Below 0 and Notify Customer,Разрешить кол-во ниже 0 и оповестить клиента,module,Magento_CatalogInventory
 In Stock,Есть в наличии,module,Magento_CatalogInventory
 Out of Stock,Нет в наличии,module,Magento_CatalogInventory
-"Stock Item with id ""%1"" does not exist.","Позиция склада с ид ""%1"" не существует.",module,Magento_CatalogInventory
+"Stock Item with id ""%1"" does not exist.","Товар с ид ""%1"" не существует.",module,Magento_CatalogInventory
 "Stock with id ""%1"" does not exist.","Склад с ид "%1"" не существует.",module,Magento_CatalogInventory
 Not all of your products are available in the requested quantity.,Не все ваши товары есть в наличии в требуемом количестве.,module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Товар с артикулом ""%1"" не существует",module,Magento_CatalogInventory
@@ -1252,12 +1252,12 @@ Error message!,Ошибка!,module,Magento_Checkout
 Error!,Ошибка!,module,Magento_Checkout
 Wrong minimum amount.,Неправильная минимальная сумма.,module,Magento_Checkout
 Message,Сообщение,module,Magento_Checkout
-Apply Discount Code,Применить код скидки,module,Magento_Checkout
-Enter discount code,Введите код скидки,module,Magento_Checkout
-Apply Discount,Применить скидку,module,Magento_Checkout
+Apply Discount Code,Применить купон,module,Magento_Checkout
+Enter discount code,Введите купон,module,Magento_Checkout
+Apply Discount,Применить купон,module,Magento_Checkout
 Cancel Coupon,Отменить купон,module,Magento_Checkout
 Shopping Cart Items,Товары в корзине покупок,module,Magento_Checkout
-Item,Позиция,module,Magento_Checkout
+Item,Товар,module,Magento_Checkout
 Price,Цена,module,Magento_Checkout
 Qty,Кол-во,module,Magento_Checkout
 Subtotal,Итого,module,Magento_Checkout
@@ -1267,9 +1267,9 @@ Update Shopping Cart,Обновить корзину,module,Magento_Checkout
 Update Cart,Обновить корзину,module,Magento_Checkout
 See price before order confirmation.,Просмотрите цены перед подтверждением заказа.,module,Magento_Checkout
 What's this?,Что это?,module,Magento_Checkout
-Edit item parameters,Изменить параметры позиции,module,Magento_Checkout
+Edit item parameters,Изменить параметры товара,module,Magento_Checkout
 Edit,Редактировать,module,Magento_Checkout
-Remove item,Удалить позицию,module,Magento_Checkout
+Remove item,Удалить товар,module,Magento_Checkout
 You have no items in your shopping cart.,Ваша корзина покупок пуста.,module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Нажмите <a href=""%1"">сюда</a>, чтобы продолжить выбор товаров.",module,Magento_Checkout
 Estimate Tax,Рассчитать налог,module,Magento_Checkout
@@ -5013,7 +5013,7 @@ item,позиция,module,Magento_Checkout
 items,позиции,module,Magento_Checkout
 Go to Checkout,Оформить,module,Magento_Checkout
 Recently added item(s),Последние товары в заказе,module,Magento_Checkout
-View and edit cart,Просмотр и редактирование корзины,module,Magento_Checkout
+View and edit cart,В корзину,module,Magento_Checkout
 See Details,Подробнее,module,Magento_Checkout
 Options Details,Параметры,module,Magento_Checkout
 Remove,Удалить,module,Magento_Checkout
@@ -5368,10 +5368,10 @@ Please enter less or equal than {0} symbols.,Введите меньше или 
 Please enter {0} words or less.,Пожалуйста введите {0} слов или меньше.,module,Magento_Ui
 Please enter at least {0} words.,"Пожалуйста, укажите как минимум {0} слов.",module,Magento_Ui
 Please enter between {0} and {1} words.,Пожалуйста введите между {0} и {1} слов.,module,Magento_Ui
-Letters or punctuation only please,Только буквы или знаки препинания,module,Magento_Ui
+"Letters or punctuation only please","Только буквы или знаки препинания",module,Magento_Ui
 "Letters, numbers, spaces or underscores only please","Только буквы, цифры, пробелы или символы подчеркивания ",module,Magento_Ui
-Letters only please,Только буквы,module,Magento_Ui
-No white space please,"Без пробелов, пожалуйста",module,Magento_Ui
+"Letters only please",Т"олько буквы,module,Magento_Ui
+No white space please,"Без пробелов", пожалуйста",module,Magento_Ui
 Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx,Ваш ZIP-код должен быть в диапазоне от 902xx-xxxx до 905-xx-xxxx,module,Magento_Ui
 A positive or negative non-decimal number please,"Положительное или отрицательное число, не являющееся десятичным числом, пожалуйста",module,Magento_Ui
 The specified vehicle identification number (VIN) is invalid.,Указанный идентификационный номер (VIN) недействителен.,module,Magento_Ui
@@ -5379,26 +5379,26 @@ Please enter a correct date,"Пожалуйста, введите правиль
 Vul hier een geldige datum in.,"Пожалуйста, введите правильную дату тут.",module,Magento_Ui
 "Please enter a valid time, between 00:00 and 23:59","Пожалуйста, введите корректное время между 00:00 и 23:59",module,Magento_Ui
 "Please enter a valid time, between 00:00 am and 12:00 pm","Пожалуйста, введите корректное время между 00:00 am и 12:00 pm",module,Magento_Ui
-Please specify a valid phone number,"Пожалуйста, введите действительный номер телефона",module,Magento_Ui
-Please specify a valid mobile number,"Пожалуйста, введите действительный номер телефона",module,Magento_Ui
+"Please specify a valid phone number","Пожалуйста, введите действительный номер телефона",module,Magento_Ui
+"Please specify a valid mobile number","Пожалуйста, введите действительный номер телефона",module,Magento_Ui
 Please enter at least {0} characters,"Пожалуйста, введите не менее {0}  символов",module,Magento_Ui
 Please enter a valid credit card number.,Пожалуйста введите действующий номер кредитной карты.,module,Magento_Ui
 Please enter a valid IP v4 address.,Введите действительный IP-адрес v4.,module,Magento_Ui
 Please enter a valid IP v6 address.,Введите действительный IP-адрес v6.,module,Magento_Ui
-Invalid format.,Неверный формат.,module,Magento_Ui
-HTML tags are not allowed.,HTML теги не допускаются.,module,Magento_Ui
-Please select an option.,"Пожалуйста, выберете значение.",module,Magento_Ui
+"Invalid format.","Неверный формат.",module,Magento_Ui
+"HTML tags are not allowed.","HTML теги не допускаются.",module,Magento_Ui
+"Please select an option.","Пожалуйста, выберете значение.",module,Magento_Ui
 Empty Value.,Пустое значение.,module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9) или пробелы.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Пожалуйста, используйте в этом поле только буквы  (a-z or A-Z), цифры (0-9) или подчеркивание (_) и первым символом должна быть буква.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9), пробелы и ""#"".",module,Magento_Ui
-Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,Пожалуйста введите правильный номер телефона. Например (123) 456-7890 или 123-456-7890.,module,Magento_Ui
-Please enter a valid fax number (Ex: 123-456-7890).,Введите действительный номер факса (Ex: 123-456-7890).,module,Magento_Ui
-Please enter a valid email address (Ex: johndoe@domain.com).,"Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
-Please enter 6 or more characters. Leading and trailing spaces will be ignored.,"Пожалуйста, введите 6 и более символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Пожалуйста введите правильный номер телефона. Например (123) 456-7890 или 123-456-7890.",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Введите действительный номер факса (Ex: 123-456-7890).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com)".,"Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Пожалуйста, введите 6 и более символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Введите 7 или более символов, используя числовые и буквенные символы.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Пожалуйста, введите корректный адрес. Требуется протокол (http://, https:// or ftp://).",module,Magento_Ui
-Please enter a valid URL. For example http://www.example.com or www.example.com.,"Пожалуйста, введите корректный адрес. Например http://www.example.com or www.example.com.",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Пожалуйста, введите корректный адрес. Например http://www.example.com or www.example.com.",module,Magento_Ui
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Введите действительный XML-идентификатор (Ex: something_1, block5, id-4).",module,Magento_Ui
 Please enter a valid social security number (Ex: 123-45-6789).,Введите действительный номер социального страхования. (Например: 123-45-6789).,module,Magento_Ui
 Please enter a valid zip code (Ex: 90602 or 90602-1234).,"Пожалуйста, введите верный почтовый индекс (Например: 90602 or 90602-1234).",module,Magento_Ui
