@@ -5394,7 +5394,7 @@ Empty Value.,Пустое значение.,module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Пожалуйста, используйте в этом поле только буквы (a-z or A-Z), цифры (0-9), пробелы и ""#"".",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Пожалуйста введите правильный номер телефона. Например (123) 456-7890 или 123-456-7890.",module,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","Введите действительный номер факса (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com)".,"Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Пожалуйста, введите действительный адрес электронной почты (Например: ivanov@domain.com).",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Пожалуйста, введите 6 и более символов. Начальные и конечные пробелы будут игнорироваться.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Введите 7 или более символов, используя числовые и буквенные символы.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Пожалуйста, введите корректный адрес. Требуется протокол (http://, https:// or ftp://).",module,Magento_Ui
