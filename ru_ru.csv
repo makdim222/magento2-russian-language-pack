@@ -1118,7 +1118,7 @@ Select All,Выбрать все,module,Magento_Catalog
 Unselect All,Снять все,module,Magento_Catalog
 Select Visible,Выбрать видимые,module,Magento_Catalog
 Unselect Visible,Снять выбор с видимых,module,Magento_Catalog
-Special Price,Цена особого предложения,module,Magento_Catalog
+Special Price,Спец. цена,module,Magento_Catalog
 Regular Price,Обычная цена,module,Magento_Catalog
 Buy %1 for: ,Купи %1 шт. за: ,module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Купи %1 шт. за %2 каждую и <strong class=""benefit"">сэкономь<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
