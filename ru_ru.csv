@@ -795,7 +795,7 @@ All Websites,Все сайты,module,Magento_Catalog
 ALL GROUPS,ВСЕ ГРУППЫ,module,Magento_Catalog
 Add Price,Добавить цену,module,Magento_Catalog
 Default Values,Значения по умолчанию,module,Magento_Catalog
-Related Products,Товары принимающие участие в статье,module,Magento_Catalog
+Related Products,Рекомендуемые товары,module,Magento_Catalog
 Up-sells,Похожие товары,module,Magento_Catalog
 Cross-sells,Перекрёстные продажи,module,Magento_Catalog
 Size for %1,Размер для %1,module,Magento_Catalog
