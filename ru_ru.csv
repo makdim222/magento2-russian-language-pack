@@ -1154,7 +1154,7 @@ Sort By,Сортировать,module,Magento_Catalog
 Set Ascending Direction,Сортируется по убыванию. Установить по возрастанию,module,Magento_Catalog
 Set Descending Direction,Сортируется по возрастанию. Установить по убыванию,module,Magento_Catalog
 View as,Вид,module,Magento_Catalog
-More Information,Дополнительная информация,module,Magento_Catalog
+More Information,Характеристики,module,Magento_Catalog
 Loading...,Загрузка...,module,Magento_Catalog
 * Required Fields,* Обязательные поля,module,Magento_Catalog
 Availability,Доступность,module,Magento_Catalog
@@ -5874,7 +5874,7 @@ Disable,Отключить,module,Magento_Catalog
 Update attributes,Обновить атрибуты,module,Magento_Catalog
 none,нету,module,Magento_Catalog
 Overview,Обзор,module,Magento_Catalog
-Details,Подробности,module,Magento_Catalog
+Details,Описание,module,Magento_Catalog
 Terms & Conditions,Правила и условия,module,Magento_CheckoutAgreements
 Enable Terms and Conditions,Включить Условия и Соглашения,module,Magento_CheckoutAgreements
 Checkout Options,Параметры оформления заказа,module,Magento_Checkout
