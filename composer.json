@@ -3,7 +3,7 @@
   "description": "Russian language package for Magento 2",
   "homepage": "https://qpard.com",
   "require": {
-    "php": "~5.5.0|~5.6.0|~7.0.0"
+    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
   },
   "type": "magento2-language",
   "version": "1.0.8",
