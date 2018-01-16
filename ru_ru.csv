@@ -3776,7 +3776,7 @@ Order # ,Заказ # ,module,Magento_Sales
 Order Date: ,Дата заказа: ,module,Magento_Sales
 Sold to:,Покупатель:,module,Magento_Sales
 Ship to:,Получатель:,module,Magento_Sales
-Payment Method:,Метод оплаты:,module,Magento_Sales
+Payment Method:,Способ оплаты:,module,Magento_Sales
 Shipping Method:,Метод доставки:,module,Magento_Sales
 Total Shipping Charges,Итоговая сумма за доставку,module,Magento_Sales
 Title,Заголовок,module,Magento_Sales
