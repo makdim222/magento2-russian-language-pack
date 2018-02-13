@@ -1227,7 +1227,7 @@ Page not found.,Страница не найдена.,module,Magento_Checkout
 Please agree to all the terms and conditions before placing the order.,Перед оформлением заказа Вы должны принять все Условия и Соглашения.,module,Magento_Checkout
 Something went wrong while processing your order. Please try again later.,"Что-то пошло не так во время обработки вашего заказа. Пожалуйста, повторите попытку позже.",module,Magento_Checkout
 %1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface,%1 не наследуется от \Magento\Checkout\CustomerData\ItemInterface,module,Magento_Checkout
-Payment Method,Метод оплаты,module,Magento_Checkout
+Payment Method,Способ оплаты,module,Magento_Checkout
 We can't find the product.,Мы не можем найти товар.,module,Magento_Checkout
 The product does not exist.,Товар больше не существует.,module,Magento_Checkout
 We don't have some of the products you want.,"У нас нет некоторых товаров, которые вы хотите.",module,Magento_Checkout
