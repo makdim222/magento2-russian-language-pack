@@ -2528,7 +2528,7 @@ Enter a New Address,Введите новый адрес,module,Magento_Multishi
 Back to Shopping Cart,Вернуться в корзину покупок,module,Magento_Multishipping
 Billing Address,Адрес плательщика,module,Magento_Multishipping
 Change,Изменить,module,Magento_Multishipping
-Payment Method,Метод оплаты,module,Magento_Multishipping
+Payment Method,Способ оплаты,module,Magento_Multishipping
 Go to Review Your Order,Перейти к обзору вашего заказа,module,Magento_Multishipping
 Back to Shipping Information,Вернуться к информации о доставке,module,Magento_Multishipping
 Other items in your order,Другие товары в вашем заказе,module,Magento_Multishipping
@@ -2893,14 +2893,14 @@ Agreement Information,Информация о соглашении,module,Magent
 Status:,Статус:,module,Magento_Paypal
 Created:,Создано:,module,Magento_Paypal
 Updated:,Обновлено:,module,Magento_Paypal
-Payment Method:,Метод оплаты:,module,Magento_Paypal
+Payment Method:,Способ оплаты:,module,Magento_Paypal
 Order #,Заказ #,module,Magento_Paypal
 Date,Дата,module,Magento_Paypal
 Ship To,Доставка на имя,module,Magento_Paypal
 Order Status,Статус заказа,module,Magento_Paypal
 View Order,Просмотреть заказ,module,Magento_Paypal
 Back to Billing Agreements,Вернуться к Платёжным соглашениям,module,Magento_Paypal
-Payment Method,Метод оплаты,module,Magento_Paypal
+Payment Method,Способ оплаты,module,Magento_Paypal
 View,Просмотреть,module,Magento_Paypal
 There are no billing agreements yet.,У вас пока нет платёжных соглашений.,module,Magento_Paypal
 New Billing Agreement,Новое платёжное соглашение,module,Magento_Paypal
@@ -3416,7 +3416,7 @@ Update product's %1 %2: %3,Обновить у товара %1 %2: %3,module,Mag
 Subtotal,Итого,module,Magento_SalesRule
 Total Items Quantity,Общее количество товаров,module,Magento_SalesRule
 Total Weight,Общий вес,module,Magento_SalesRule
-Payment Method,Метод оплаты,module,Magento_SalesRule
+Payment Method,Способ оплаты,module,Magento_SalesRule
 Shipping Method,Метод доставки,module,Magento_SalesRule
 Shipping Postcode,Почтовый индекс доставки,module,Magento_SalesRule
 Shipping Region,Регион доставки,module,Magento_SalesRule
@@ -3471,7 +3471,7 @@ Submit Order,Создать заказ,module,Magento_Sales
 Are you sure you want to cancel this order?,Вы действительно хотите отменить этот заказ?,module,Magento_Sales
 Cancel,Отмена,module,Magento_Sales
 Billing Address,Адрес плательщика,module,Magento_Sales
-Payment Method,Метод оплаты,module,Magento_Sales
+Payment Method,Способ оплаты,module,Magento_Sales
 Order Comment,Комментарий к заказу,module,Magento_Sales
 Coupons,Купоны,module,Magento_Sales
 Please select a customer,"Пожалуйста, выберите клиента",module,Magento_Sales
@@ -4994,7 +4994,7 @@ Total:,Всего:,module,Magento_Checkout
 Billing Address:,Адрес плательщика:,module,Magento_Checkout
 Shipping Address:,Адрес доставки:,module,Magento_Checkout
 Shipping Method:,Метод доставки:,module,Magento_Checkout
-Payment Method:,Метод оплаты:,module,Magento_Checkout
+Payment Method:,Способ оплаты:,module,Magento_Checkout
 Date & Time:,Дата и Время:,module,Magento_Checkout
 Sign In,Войти,module,Magento_Checkout
 Email Address,Адрес электронной почты (email),module,Magento_Checkout
@@ -5208,7 +5208,7 @@ Thank you for your order from %store_name.,Спасибо за Ваш заказ
 Your Credit Memo #%creditmemo_id for Order #%order_id,Возврат платежа #%creditmemo_id для заказа #%order_id,theme,frontend/Magento/luma
 Billing Info,Информация о плательщике,theme,frontend/Magento/luma
 Shipping Info,Информация о доставке,theme,frontend/Magento/luma
-Payment Method,Метод оплаты,theme,frontend/Magento/luma
+Payment Method,Способ оплаты,theme,frontend/Magento/luma
 Shipping Method,Метод доставки,theme,frontend/Magento/luma
 Update to your %store_name credit memo,Обновить Ваше %store_name крудит мемо,theme,frontend/Magento/luma
 Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.,Ваш заказ #%increment_id был изменён. Текущий статус заказа <strong>%order_status</strong>.,theme,frontend/Magento/luma
