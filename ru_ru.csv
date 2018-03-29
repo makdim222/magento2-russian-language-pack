@@ -6415,7 +6415,7 @@ Page Cache,Кэш страниц,module,Magento_PageCache
 Full page caching,кэширование на полную страницу,module,Magento_PageCache
 Payment Methods Section,Раздел методов оплаты,module,Magento_Payment
 Payment Services,Платёжные сервисы,module,Magento_Payment
-Payment Methods,Методы оплаты,module,Magento_Payment
+Payment Methods,Способы оплаты,module,Magento_Payment
 Fetch,Получить,module,Magento_Paypal
 Actions,Действия,module,Magento_Paypal
 Manage,Управление,module,Magento_Paypal
