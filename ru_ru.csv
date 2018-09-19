@@ -5129,7 +5129,7 @@ Your order #%increment_id has been updated with a status of <strong>%order_statu
 Invoice for your %store_name order,Счет-фактура для Вашего %store_name заказа,module,Magento_Sales
 Your Invoice #%invoice_id for Order #%order_id,Ваш счёт #%invoice_id для заказа #%order_id,module,Magento_Sales
 Update to your %store_name invoice,Обновить Ваши %store_name счета,module,Magento_Sales
-Your %store_name order confirmation,Ваше %store_name подтверждение заказа,module,Magento_Sales
+Your %store_name order confirmation,Подтверждение заказа %store_name,module,Magento_Sales
 Once your package ships we will send you a tracking number.,"Как только заказ будет отгружен, мы вышлем вам электронное письмо с номером отслеживания",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Ваш заказ <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Создан <span class=""no-link"">%created_at</span>",module,Magento_Sales
@@ -5215,7 +5215,7 @@ Your order #%increment_id has been updated with a status of <strong>%order_statu
 Invoice for your %store_name order,Счет-фактура для Вашего %store_name заказа,theme,frontend/Magento/luma
 Your Invoice #%invoice_id for Order #%order_id,Ваш счёт #%invoice_id для заказа #%order_id,theme,frontend/Magento/luma
 Update to your %store_name invoice,Обновить Ваши %store_name счета,theme,frontend/Magento/luma
-Your %store_name order confirmation,Ваше %store_name подтверждение заказа,theme,frontend/Magento/luma
+Your %store_name order confirmation,Подтверждение заказа %store_name,theme,frontend/Magento/luma
 Once your package ships we will send you a tracking number.,"Как только заказ будет отгружен, мы вышлем вам электронное письмо с номером отслеживания",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Ваш заказ <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Создан <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
