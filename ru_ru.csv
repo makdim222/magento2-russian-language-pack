@@ -1893,6 +1893,7 @@ Registered Customers,Зарегистрированные клиенты,module,
 "If you have an account, sign in with your email address.","Если у вас есть учетная запись, войдите в свой адрес электронной почты.",module,Magento_Customer
 Password,Пароль,module,Magento_Customer
 Forgot Your Password?,Забыли пароль?,module,Magento_Customer
+Forgot Your Password,Забыли пароль?,module,Magento_Customer
 Subscription option,Настройка подписки,module,Magento_Customer
 General Subscription,Главная подписка,module,Magento_Customer
 Sign Up for Newsletter,Подписаться на рассылку,module,Magento_Customer
