@@ -1209,6 +1209,7 @@ Customer is already registered,Клиент уже зарегистрирова�
 Your session has expired,Время вашего сеанса истекло,module,Magento_Checkout
 A letter with further instructions will be sent to your email.,Письмо с дальнейшими инструкциями будет отправлено на ваш адерс электронной почты.,module,Magento_Checkout
 You added %1 to your shopping cart.,Вы добавили %1 в вашу корзину покупок.,module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Вы добавили %1 в вашу <a href=""%2"">корзину покупок</a>."
 We can't add this item to your shopping cart right now.,Мы не можем добавить эту позицию в вашу корзину покупок в данный момент.,module,Magento_Checkout
 Out of stock,Нет в наличии,module,Magento_Checkout
 We can't find the quote item.,Мы не можем найти позицию корзины.,module,Magento_Checkout
